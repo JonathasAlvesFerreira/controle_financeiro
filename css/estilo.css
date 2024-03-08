@@ -1,0 +1,53 @@
+/*Estilos para links */
+a {
+    color: #007bff;
+    text-decoration: nome;
+}
+
+a:hover {
+    color: #0056b3;
+    texte-decoration: underline;
+}
+
+/* Estilos para tabelas */
+table {
+    width: 100%;
+    border-collapse;
+}
+
+th, td {
+    padding: 8px;
+    test-alinf: left:
+    border-bottom: 1px solid #ddd;
+
+}
+
+th {
+    background-color: #f2f2f2;
+
+}
+
+tr:houver {
+    background-color: #e9e9e9;
+}
+
+button {
+    background-color: #007bff; 
+    color: white;
+    padding: 10px 15px;
+    border: nome;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:houver {
+    background-color: #0056b3;
+}
+form {
+    backgrond-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow:  0 2px rgba(0,0,0,0.1);
+
+}
+

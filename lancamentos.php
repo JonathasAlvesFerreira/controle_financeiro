@@ -6,7 +6,7 @@ include 'conexao.php';
     <head>
 <meta charset="UTF-8">
 <title>Cadastro de Despesas</title>
-</head>
+</head> <link rel="stylesheet" href="css/estilo.css">
 <body>
     <a href="index.php"><button>voltar</button></a>
     <h2>lançamentos</h2>

@@ -7,7 +7,7 @@ echo "Bem-vindo ao Sistema de Controle Financeiro!";
 <head> 
     <meta charset="UTF-8"> 
     <title>Controle Financeiro Pessoal</title> 
-</head> 
+</head> <link rel="stylesheet" href="css/estilo.css">
 <body>
     <h1>Controle Financeiro Pessoal</h1>
     <a href="lancamentos.php"><button>Acessar Lancamentos</button></a>
